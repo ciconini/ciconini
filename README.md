@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on creating Wordpress websites and Angular projects<br>👯 I’m looking to collaborate on Angular Projects<br>🌱 I’m currently learning React and Angular<br>
+🔭 I’m currently working on Angular projects and discovering about Node.JS backend environments<br>👯 I’m looking to collaborate on Angular Projects<br>🌱 I’m currently learning Angular and Node.JS<br>
 
 
 ## 🌐 Socials:
